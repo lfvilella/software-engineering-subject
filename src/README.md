@@ -1,0 +1,1 @@
+Note: I tried to use a kind of Java pattern to looks like as java exercises used by teacher on his examples
